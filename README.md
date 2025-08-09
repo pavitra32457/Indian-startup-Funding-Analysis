@@ -94,13 +94,4 @@ python main.py
 * **Investment Type Analysis:**
   Compares funding distribution across investment types.
 
-## 📌 Notes
 
-* The script expects consistent column names. Ensure dataset matches expected format.
-* Functions like `active_investors`, `top_entities`, and variables like `CONFIG` must be defined or imported for certain parts to run.
-* Missing or incorrect CSV paths will cause errors.
-
----
-
-Do you want me to **also include usage examples with the missing `active_investors` and `top_entities` functions** so the script runs without errors? That would make the README and code fully functional.
-# Indian-startup-Funding-Analysis
